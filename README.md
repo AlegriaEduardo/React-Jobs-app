@@ -1,2 +1,8 @@
-# React-Jobs-app
-its one of my last projects that i was doing with the channel Traversy Media(avaliable in youtube) it does a simple CRUD using the react tools avaliable. it was very fun to do and very intuitive. i had some notes inside for better understanding.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
